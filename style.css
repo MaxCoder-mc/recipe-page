@@ -167,6 +167,7 @@ hr{
     width: 46rem;
     background-color: hsl(0, 0%, 100%);
     border-radius: 1.562rem;
+    margin-block: 7.937rem;
   }
   header, section, hr, img{
     margin-inline: 2.5rem;
